@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ankul01.github.io/leadership-learning/sitemap.xml
